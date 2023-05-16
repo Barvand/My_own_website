@@ -1,0 +1,26 @@
+*{
+    padding> 0;
+    margin: 0;
+}
+
+body{
+    position: relative;
+    
+}
+
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #c22929    
+
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
